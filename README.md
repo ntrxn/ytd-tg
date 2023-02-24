@@ -10,6 +10,6 @@
 pip install python-telegram-bot
 ```
 
-#### Before run, Change BOT-TOKEN to your Telegram bot token in bot.py
+#### Before run, Change BOT_TOKEN to your Telegram bot token in bot.py
 
 ## Simply run python bot.py
